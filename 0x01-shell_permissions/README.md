@@ -13,3 +13,4 @@ added script that uses same permissions as olleh for file hello
 added execution permissions to all users for all subdirectories
 added script that creates a directory with multiple permissions
 added script that changes group user for file hello
+added script that changes name of owner and group for all files
