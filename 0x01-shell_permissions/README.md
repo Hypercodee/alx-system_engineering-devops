@@ -8,3 +8,4 @@ added a script that adds execute permission to the owner of the file hello
 added multiple permissions for file hello
 added execution permission for everybody
 allowed full access for only others
+set multiple permissions for all users
