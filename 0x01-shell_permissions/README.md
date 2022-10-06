@@ -11,3 +11,4 @@ allowed full access for only others
 set multiple permissions for all users
 added script that uses same permissions as olleh for file hello
 added execution permissions to all users for all subdirectories
+added script that creates a directory with multiple permissions
