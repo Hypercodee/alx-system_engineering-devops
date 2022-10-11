@@ -8,3 +8,4 @@
 # Added a script that displays the third line of a file
 # Added a script that creates a file with a name
 # Added a script that prints output into a file
+# Added a script that duplicates last line of a file
