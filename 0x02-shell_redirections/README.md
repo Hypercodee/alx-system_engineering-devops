@@ -18,3 +18,4 @@
 # Added script for task 16
 # Added a script for task 17
 # Added solution to task 18
+# Added solution to task 19
