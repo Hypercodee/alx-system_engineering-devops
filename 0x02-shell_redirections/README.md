@@ -22,3 +22,4 @@
 # Added solution to task 20
 # Added solution to task 21
 # Added solution to task 22
+# Fixed task 12
