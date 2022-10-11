@@ -7,3 +7,4 @@
 # Added a script that displays first 10 lines of a file
 # Added a script that displays the third line of a file
 # Added a script that creates a file with a name
+# Added a script that prints output into a file
