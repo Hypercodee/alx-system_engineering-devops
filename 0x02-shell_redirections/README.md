@@ -10,3 +10,4 @@
 # Added a script that prints output into a file
 # Added a script that duplicates last line of a file
 # Added a script that deletes .js files
+# Added a script that counts directories
