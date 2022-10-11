@@ -11,3 +11,4 @@
 # Added a script that duplicates last line of a file
 # Added a script that deletes .js files
 # Added a script that counts directories
+# Added a script that displays 10 newest files
