@@ -3,4 +3,4 @@
 ## Added a script for task 1 (Hello User)
 ## Added a script for task 2
 ## Added a script for task 3
-## Added a script for task 4
+## Added a script for task 4 (global var)
